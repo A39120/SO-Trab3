@@ -1,0 +1,7 @@
+# For our caching system
+**/debug
+
+# Windows' thumbnail database file
+*.exe
+*.pdb
+*.lib
