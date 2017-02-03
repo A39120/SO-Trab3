@@ -1,0 +1,4 @@
+﻿  SearchServerApp.cpp
+  CompletionPort.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\João\Desktop\SO\Trab 3\Debug\\SearchService.lib'
